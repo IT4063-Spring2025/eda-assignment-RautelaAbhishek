@@ -51,32 +51,33 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to make a correlation matrix and use plotly
 
 **I struggled with:** (repeat as needed)
-- .
+- Choosing the data types
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Data types
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[3] hours.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+- No solutions
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- Be able to make the correlation matrix faster without needing to view the documentation
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
+- https://plotly.com/python-api-reference/generated/plotly.express.scatter_geo.html
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- NA
 
 ---
 ## Copyrights and License
